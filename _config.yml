@@ -1,0 +1,9 @@
+# basic options
+title: scratch
+email: scratch@gmail.com
+twitter_username: scratch
+github_username:  scratch
+
+# Build settings
+markdown: kramdown
+theme: minima
